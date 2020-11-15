@@ -1,5 +1,5 @@
 #节点列表
 
-#节点1
+#joyo.ga节点1
 
 vmess://eyJhZGQiOiIxMTYuMTYzLjE0LjUyIiwiYWlkIjoyLCJob3N0IjoiIiwiaWQiOiIzM2RjMzA5My1mZDQ1LTNiMGUtODc4Yy1mOWVjOWMwYWU4ZDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoxMzU4MywicHMiOiLpn6nlm73wn4ew8J+Ht3xAdm1lc3NzciIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
